@@ -1,0 +1,8 @@
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\Debug\hspi_enviracom_manager.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\Debug\hspi_enviracom_manager.pdb
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\Debug\Scheduler.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\Debug\interop.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\Debug\HS2Util.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\obj\Debug\hspi_enviracom_manager.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\obj\Debug\hspi_enviracom_manager.pdb
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\obj\Debug\EnviracomManager.csprojResolveAssemblyReference.cache

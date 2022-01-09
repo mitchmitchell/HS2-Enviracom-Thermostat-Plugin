@@ -1,0 +1,9 @@
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\bin\Debug\EnviracomManagerSetup.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\bin\Debug\EnviracomManagerSetup.pdb
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\bin\Debug\EnviracomManagerSetup.xml
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\obj\Debug\Settings.DlgOptions.resources
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\obj\Debug\Settings.Resources.resources
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\obj\Debug\SetupSettings.vbproj.GenerateResource.Cache
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\obj\Debug\EnviracomManagerSetup.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\obj\Debug\EnviracomManagerSetup.xml
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Settings\obj\Debug\EnviracomManagerSetup.pdb

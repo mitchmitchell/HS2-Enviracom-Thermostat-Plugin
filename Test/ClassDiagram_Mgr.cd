@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsThermostatInformation" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oCAUCAIBChBEOQAEZDQUTYAWEICBEABIVQIIcBEFSAk=</HashCode>
+      <FileName>clsThermostatInformation.cs</FileName>
+      <NewMemberFileName>clsThermostatZone.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.HomeSeer" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>1HEkBikMGCJOkLBdgQAGAtJgEsAKDRQCKEDNhK1jktI=</HashCode>
+      <FileName>HomeSeer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.HSPI" Collapsed="true">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJBAgKCAUEggABWgkIQgAI02oAUIAAAIYAAiAACQEAA=</HashCode>
+      <FileName>HSPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsHvacController" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAJAAgoAkAIZAABCJEAgUAHQAIAKBAQQACAlAABQA=</HashCode>
+      <FileName>clsHvacController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsSACommMgr" Collapsed="true">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAEAAAAAAQAAAAAABwIAiCAAIIAAQAAQAEAACgE=</HashCode>
+      <FileName>clsSACommMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsEnviracomApp" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>zXyEomqNgI8r7bfpIILo+1yIhMGwgeQGWQCDLF9OHEs=</HashCode>
+      <FileName>clsEnviracomApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsMessageMgr" Collapsed="true">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>NSHAiJOKonxRgZDlebjaF7BAFuQ4AglxQwEY4B6PgYg=</HashCode>
+      <FileName>clsMessageMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.ProcessingQueueEventArgs&lt;T&gt;" Collapsed="true">
+    <Position X="11.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsProcessingQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.ProcessingQueueExceptionEventArgs" Collapsed="true">
+    <Position X="10" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAA=</HashCode>
+      <FileName>clsProcessingQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.ProcessingQueue&lt;T&gt;" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEBAQEAAAAAAAAQAAEAAIgAAAAIAAAAAQAAgA=</HashCode>
+      <FileName>clsProcessingQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsScheduleDay" Collapsed="true">
+    <Position X="4.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAgAAAAAQAAAAAAQAQAAAAAAAQAA=</HashCode>
+      <FileName>clsScheduleDay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsSchedulePeriod" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAQAAAAAAAAAAAAAAAAAAACBEBAQAAAAAAAAAAQA=</HashCode>
+      <FileName>clsSchedulePeriod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.PeriodicListEventArgs&lt;T&gt;" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsResponseList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.PeriodicListExceptionEventArgs" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAA=</HashCode>
+      <FileName>clsResponseList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.PeriodicList&lt;T&gt;" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAABAAgAAAEAAAAQAIEEAAgAABEYAAAAgQAAIA=</HashCode>
+      <FileName>clsResponseList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsResponse" Collapsed="true">
+    <Position X="7.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>clsResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HSPI_ENVIRACOM_MANAGER.clsWebManager" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAgAAAAQBAgAAAEEAAEAAAAEQEEAAQAAAABBAAEA=</HashCode>
+      <FileName>clsWebManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>

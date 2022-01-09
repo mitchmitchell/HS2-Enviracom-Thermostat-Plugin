@@ -1,0 +1,7 @@
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\x86\Debug\hspi_enviracom_manager.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\x86\Debug\hspi_enviracom_manager.pdb
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\x86\Debug\Scheduler.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\x86\Debug\interop.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\bin\x86\Debug\HS2Util.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\obj\x86\Debug\hspi_enviracom_manager.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\obj\x86\Debug\hspi_enviracom_manager.pdb

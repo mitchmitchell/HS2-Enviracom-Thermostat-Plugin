@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EFFDDDAE-4948-4144-946B-5D284382471B}"
+	ProjectSection(SolutionItems) = preProject
+		HSPI_Enviracom_Manager.vsd = HSPI_Enviracom_Manager.vsd
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviracomManager", "EnviracomManager.csproj", "{081F5E32-0A25-4E46-BD63-D25EDED46BBB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PluginInstall", "PluginInstall\PluginInstall.vdproj", "{37084FE5-9388-4458-80DF-8E58C6D7C566}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SetupSettings", "Settings\SetupSettings.vbproj", "{466701E3-8C1E-4922-91FB-C3DE79B37FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviracomManagerWeb", "EnviracomManagerWeb\EnviracomManagerWeb.csproj", "{84BB128D-1A6D-489F-89FD-79F8EEDDC243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081F5E32-0A25-4E46-BD63-D25EDED46BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081F5E32-0A25-4E46-BD63-D25EDED46BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081F5E32-0A25-4E46-BD63-D25EDED46BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081F5E32-0A25-4E46-BD63-D25EDED46BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37084FE5-9388-4458-80DF-8E58C6D7C566}.Debug|Any CPU.ActiveCfg = Debug
+		{37084FE5-9388-4458-80DF-8E58C6D7C566}.Debug|Any CPU.Build.0 = Debug
+		{37084FE5-9388-4458-80DF-8E58C6D7C566}.Release|Any CPU.ActiveCfg = Release
+		{37084FE5-9388-4458-80DF-8E58C6D7C566}.Release|Any CPU.Build.0 = Release
+		{466701E3-8C1E-4922-91FB-C3DE79B37FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466701E3-8C1E-4922-91FB-C3DE79B37FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466701E3-8C1E-4922-91FB-C3DE79B37FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466701E3-8C1E-4922-91FB-C3DE79B37FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BB128D-1A6D-489F-89FD-79F8EEDDC243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BB128D-1A6D-489F-89FD-79F8EEDDC243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BB128D-1A6D-489F-89FD-79F8EEDDC243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BB128D-1A6D-489F-89FD-79F8EEDDC243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal

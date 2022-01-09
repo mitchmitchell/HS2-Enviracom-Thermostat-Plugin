@@ -1,0 +1,11 @@
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\EnviracomManagerWeb.dll.config
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\EnviracomManagerWeb.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\EnviracomManagerWeb.pdb
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\HS2Util.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\hspi_enviracom_manager.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\Scheduler.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\interop.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\bin\hspi_enviracom_manager.pdb
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\obj\Debug\EnviracomManagerWeb.csprojResolveAssemblyReference.cache
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\obj\Debug\EnviracomManagerWeb.dll
+C:\Users\Mitch\Documents\Visual Studio 2017\Projects\EnviracomPlugin\Test\EnviracomManagerWeb\obj\Debug\EnviracomManagerWeb.pdb
